@@ -1,8 +1,10 @@
 ## Example for Logging LLM Evaluator Prompt Responses
 
-This notebook demonstrates a simple example of how to log prompt responses for an LLM-powered evaluator using Comet prompting tools. 
+This notebook demonstrates a simple example of how to log prompt responses for an LLM-powered evaluator using Comet prompting tools.
 
-You can reproduce by [creating a free account on Comet](https://www.comet.com/signup) and installing the necessary Python libraries needed for running the attached notebook. 
+This demo is for educational purposes. 
+
+You can reproduce the demo by [creating a free account on Comet](https://www.comet.com/signup) and installing the necessary Python libraries needed for running the attached notebook. 
 
 I have also provided the datasets used in the demonstration (see /data folder).
 
